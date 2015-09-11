@@ -1,4 +1,19 @@
 
+
+create a new repository on the command line
+ echo # ieRepository >> README.md
+ git init
+ git add README.md
+ git commit -m "first commit"
+ git remote add origin https://github.com/joatsX/ieRepository.git
+ git push -u origin master
+ 
+push an existing repository from the command line
+git remote add origin https://github.com/joatsX/ieRepository.git
+git push -u origin master
+
+git commit -m "<scheduled update>"
+
 git commit -m "<added user.name>"
 
 git config --global user.username joatsX 
