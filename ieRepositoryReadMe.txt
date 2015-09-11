@@ -1,5 +1,14 @@
 
 
+/* GitHub for Windows on your computer, a remote named 'origin' is automatically created */
+git remote set-url origin https://github.com/joatsX/ieRepository.git
+
+/* git remote add origin https://github.com/joatsX/ieRepository.git */
+
+
+
+git commit -m "<create.push instructions>"
+
 create a new repository on the command line
  echo # ieRepository >> README.md
  git init
