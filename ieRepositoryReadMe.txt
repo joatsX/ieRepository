@@ -1,5 +1,7 @@
 
-git config --global user.username <joatsX> 
+git commit -m "<added user.name>"
+
+git config --global user.username joatsX 
 
 This is a read me file for this project
 
